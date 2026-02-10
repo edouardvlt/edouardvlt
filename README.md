@@ -17,8 +17,6 @@
 
 ---
 
-
-
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -85,8 +83,6 @@ focus: Cyber, Infra, DevOps
 
 <br/>
 
----
-
 ### 🌐 Réseau & Sécurité
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -100,7 +96,7 @@ focus: Cyber, Infra, DevOps
 
 <br/>
 
-## 🌐 Top Languages
+### 🌐 Top Languages
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edouardvlt&theme=tokyonight)
 
@@ -178,7 +174,7 @@ focus: Cyber, Infra, DevOps
 
 <div align="center">
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
 
@@ -187,8 +183,6 @@ focus: Cyber, Infra, DevOps
 </br>
 
 ---
-
-
 
 ## 🌍 Langues & Intérêts
 

@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://edouard-vallet.fr/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=L'ingénierie+au+service+de+la+performance+⚡;Conception+d'architectures+robustes+🏗️;Sécurité+%26+Résilience+des+infrastructures+🔒;Disponibilité+%26+Performance+garanties+📈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=L'ing%C3%A9nierie+au+service+de+la+performance+%E2%9A%A1;Conception+d'architectures+robustes+%F0%9F%8F%97%EF%B8%8F;S%C3%A9curit%C3%A9+%26+R%C3%A9silience+des+infrastructures+%F0%9F%94%92;Disponibilit%C3%A9+%26+Performance+garanties+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/>

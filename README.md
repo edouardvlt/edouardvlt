@@ -1,16 +1,188 @@
-<h1> Hi, I'm Edouard ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<div align="center">
 
-### Languages
-[![](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)]()
-[![](https://img.shields.io/badge/CSS-0071BC?style=for-the-badge)]()
-[![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge)]()
-[![](https://img.shields.io/badge/MySQL-00546B?style=for-the-badge)]()
-[![](https://img.shields.io/badge/PHP-878DB8?style=for-the-badge)]()
-[![](https://img.shields.io/badge/React-00D8FF?style=for-the-badge)]()
-[![](https://img.shields.io/badge/Python-3775A8?style=for-the-badge)]()
-[![](https://img.shields.io/badge/C-7F8B99?style=for-the-badge)]()
+<!-- HEADER WITH ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Edouard%20Vallet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Admin%20Système%20%7C%20Réseau%20%7C%20Cloud&descAlignY=55&descSize=18&descColor=8892b0" width="100%"/>
 
-### Logiciels
-[![](https://img.shields.io/badge/Github-0F82CF?style=for-the-badge)]()
-[![](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge)]()
-[![](https://img.shields.io/badge/VS_Code-0F82CF?style=for-the-badge)]()
+<!-- ANIMATED TYPING SVG -->
+<a href="https://edouard-vallet.fr/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=L'ingénierie+au+service+de+la+performance+⚡;Conception+d'architectures+robustes+🏗️;Sécurité+%26+Résilience+des+infrastructures+🔒;Disponibilité+%26+Performance+garanties+📈" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-edouard--vallet.fr-0a192f?style=for-the-badge&labelColor=0a192f&color=64ffda)](https://edouard-vallet.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edouard_Vallet-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0a192f&color=1a1a2e)](https://linkedin.com/in/edouard-vallet/)
+[![GitHub](https://img.shields.io/badge/GitHub-Edouardvlt-0a192f?style=for-the-badge&logo=github&logoColor=64ffda&labelColor=0a192f&color=1a1a2e)](https://github.com/Edouardvlt)
+
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edouardvlt&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&ring_color=64ffda" width="400"/>
+
+## 🧑‍💻 À propos
+
+```yaml
+nom: Edouard Vallet
+localisation: Nantes, France 🇫🇷
+formation: Bachelor Informatique Systèmes/Réseaux/Cloud
+école: Sup de Vinci, Nantes
+statut: En recherche d'alternance
+passion: Cybersécurité, Infra & DevOps
+```
+
+> *"Conception d'architectures systèmes robustes et sécurisées.<br/>J'optimise les infrastructures pour garantir disponibilité et résilience."*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### 🖥️ Systèmes & Virtualisation
+<img src="https://skillicons.dev/icons?i=linux,bash,windows,docker&theme=dark" />
+
+<br/>
+
+### 🌐 Réseau & Sécurité
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+<br/>
+
+### 💻 Langages & Développement
+<img src="https://skillicons.dev/icons?i=python,c,go,js,html,css,react,php&theme=dark" />
+
+<br/>
+
+### 🧰 Outils
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Projets Phares
+
+<div align="center">
+
+<a href="https://edouard-vallet.fr/#projects">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🏗️ Projet CCNA Multi-Sites**<br/>
+<sub>VLANs • OPNsense • ESXi</sub><br/>
+`Infra & Réseau`
+
+</td>
+<td align="center" width="33%">
+
+**📊 Hytale Dashboard**<br/>
+<sub>Next.js • Socket.io • Leaflet</sub><br/>
+`Dév. Web`
+
+</td>
+<td align="center" width="33%">
+
+**🔗 ApplyTrack API**<br/>
+<sub>Node.js • Express • REST</sub><br/>
+`Backend`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**💼 Optimix**<br/>
+<sub>Stage Dév. Web</sub><br/>
+`Web`
+
+</td>
+<td align="center" width="33%">
+
+**🖥️ Serveur Acer**<br/>
+<sub>Homelab • Docker</sub><br/>
+`Infra & DevOps`
+
+</td>
+<td align="center" width="33%">
+
+**🎨 Portfolio**<br/>
+<sub>HTML • CSS • JS • GSAP</sub><br/>
+`Personal Branding`
+
+</td>
+</tr>
+</table>
+</a>
+
+<a href="https://edouard-vallet.fr/projects.html">
+  <img src="https://img.shields.io/badge/Voir_tous_mes_projets_→-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouardvlt&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0" width="40%"/>
+
+</div>
+
+---
+
+## 🎯 Parcours
+
+```
+📚 2025-2028  Bachelor Info Sys/Réseau/Cloud — Sup de Vinci, Nantes
+🎓 2024-2025  ESGI Nantes
+🏫 2024       Bac Général — Maths & SES
+💼 2025       Stage Dev Web — Optimix, Lille
+💼 2023       Stage Support IT — Soluce Informatique, Pornic
+🏆 2025       Hackathon ESGI — Outil d'analyse médical
+```
+
+---
+
+## 🌍 Langues & Intérêts
+
+<div align="center">
+
+🇫🇷 Français `Natif` · 🇬🇧 Anglais `B2` · 🇩🇪 Allemand `A2`
+
+<br/>
+
+🔐 Cybersécurité · ⛵ Voile · 🎬 Cinéma SF · ✈️ Voyages · 💻 Codage
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=Edouardvlt&color=64ffda&style=for-the-badge&label=VISITEURS+DU+PROFIL" />
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake-dark.svg" />
+</picture>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+</div>

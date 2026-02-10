@@ -134,8 +134,8 @@ passion: Cybersécurité, Infra & DevOps
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouardvlt&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0" width="40%"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouardvlt&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0)
 
 </div>
 
@@ -144,7 +144,7 @@ passion: Cybersécurité, Infra & DevOps
 ## 🎯 Parcours
 
 ```
-📚 2025-2028  Bachelor Info Sys/Réseau/Cloud — Sup de Vinci, Nantes
+📚 2025-2027  Bachelor Info Sys/Réseau/Cloud — Sup de Vinci, Nantes
 🎓 2024-2025  ESGI Nantes
 🏫 2024       Bac Général — Maths & SES
 💼 2025       Stage Dev Web — Optimix, Lille

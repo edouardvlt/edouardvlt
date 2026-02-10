@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- HEADER WITH ANIMATED TYPING -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Edouard%20Vallet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Admin%20Système%20%7C%20Réseau%20%7C%20Cloud&descAlignY=55&descSize=18&descColor=8892b0" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Edouard%20Vallet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Admin%20Système%20%7C%20Réseau%20%7C%20Cloud&descAlignY=55&descSize=18&descColor=8892b0)
 
 <!-- ANIMATED TYPING SVG -->
-<a href="https://edouard-vallet.fr/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=L'ing%C3%A9nierie+au+service+de+la+performance+%E2%9A%A1;Conception+d'architectures+robustes+%F0%9F%8F%97%EF%B8%8F;S%C3%A9curit%C3%A9+%26+R%C3%A9silience+des+infrastructures+%F0%9F%94%92;Disponibilit%C3%A9+%26+Performance+garanties+%F0%9F%93%88" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=L'ing%C3%A9nierie+au+service+de+la+performance+%E2%9A%A1;Conception+d'architectures+robustes+%F0%9F%8F%97%EF%B8%8F;S%C3%A9curit%C3%A9+%26+R%C3%A9silience+des+infrastructures+%F0%9F%94%92;Disponibilit%C3%A9+%26+Performance+garanties+%F0%9F%93%88)](https://edouard-vallet.fr/)
 
 <br/>
 
@@ -19,7 +17,11 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edouardvlt&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&ring_color=64ffda" width="400"/>
+<div align="right">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edouardvlt&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&ring_color=64ffda)
+
+</div>
 
 ## 🧑‍💻 À propos
 
@@ -176,13 +178,9 @@ passion: Cybersécurité, Infra & DevOps
 <br/><br/>
 
 <!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake-dark.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Edouardvlt/Edouardvlt/output/github-snake-dark.svg)
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer)
 
 </div>

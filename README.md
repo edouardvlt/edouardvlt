@@ -17,11 +17,7 @@
 
 ---
 
-<div align="right">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edouardvlt&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&ring_color=64ffda)
-
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edouardvlt&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&ring_color=64ffda" width="400" />
 
 ## 🧑‍💻 À propos
 
@@ -45,7 +41,7 @@ passion: Cybersécurité, Infra & DevOps
 <div align="center">
 
 ### 🖥️ Systèmes & Virtualisation
-<img src="https://skillicons.dev/icons?i=linux,bash,windows,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,windows,docker&amp;theme=dark" alt="Systems" />
 
 <br/>
 
@@ -58,12 +54,12 @@ passion: Cybersécurité, Infra & DevOps
 <br/>
 
 ### 💻 Langages & Développement
-<img src="https://skillicons.dev/icons?i=python,c,go,js,html,css,react,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,go,js,html,css,react,php&amp;theme=dark" alt="Languages" />
 
 <br/>
 
 ### 🧰 Outils
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&amp;theme=dark" alt="Tools" />
 
 </div>
 
@@ -136,8 +132,8 @@ passion: Cybersécurité, Infra & DevOps
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouardvlt&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouardvlt&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0" width="40%" />
 
 </div>
 

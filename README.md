@@ -36,6 +36,16 @@ passion: Cybersécurité, Infra & DevOps
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edouardvlt&theme=tokyonight)
+
+<br/>
+
+---
+
 ## 🛠️ Stack Technique
 
 <div align="center">
@@ -128,18 +138,17 @@ passion: Cybersécurité, Infra & DevOps
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Top Languages
 
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edouardvlt&theme=tokyonight)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edouardvlt&theme=tokyonight)
 
-</div>
+## 🔥 GitHub Streak
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
+
+
 
 ---
 

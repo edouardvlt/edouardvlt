@@ -17,9 +17,11 @@
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
+
+## 📊 GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edouardvlt&theme=tokyonight)
 
@@ -31,12 +33,12 @@
 
 ## 🧑‍💻 À propos & Parcours
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="50%">
 
 <br/>
-**👤 Qui suis-je ?**
+<b>👤 Qui suis-je ?</b>
 
 ```yaml
 nom: Edouard Vallet
@@ -52,7 +54,7 @@ focus: Cyber, Infra, DevOps
 <td valign="top" width="50%">
 
 <br/>
-**🎯 Mon Parcours**
+<b>🎯 Mon Parcours</b>
 
 ```text2
 📚 2025-2028  Sup de Vinci, Nantes
@@ -174,9 +176,13 @@ focus: Cyber, Infra, DevOps
 
 </div>
 
+<div align="center">
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
+
+</div>
 
 </br>
 

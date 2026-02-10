@@ -35,7 +35,8 @@
 <tr>
 <td valign="top" width="50%">
 
-### 👤 Qui suis-je ?
+<br/>
+**👤 Qui suis-je ?**
 
 ```yaml
 nom: Edouard Vallet
@@ -50,7 +51,8 @@ focus: Cyber, Infra, DevOps
 </td>
 <td valign="top" width="50%">
 
-### 🎯 Mon Parcours
+<br/>
+**🎯 Mon Parcours**
 
 ```text2
 📚 2025-2028  Sup de Vinci, Nantes

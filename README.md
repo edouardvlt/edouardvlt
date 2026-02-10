@@ -17,25 +17,6 @@
 
 ---
 
-
-
-## 🧑‍💻 À propos
-
-```yaml
-nom: Edouard Vallet
-localisation: Nantes, France 🇫🇷
-formation: Bachelor Informatique Systèmes/Réseaux/Cloud
-école: Sup de Vinci, Nantes
-statut: En recherche d'alternance
-passion: Cybersécurité, Infra & DevOps
-```
-
-> *"Conception d'architectures systèmes robustes et sécurisées.<br/>J'optimise les infrastructures pour garantir disponibilité et résilience."*
-
-<br clear="right"/>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -43,6 +24,51 @@ passion: Cybersécurité, Infra & DevOps
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edouardvlt&theme=tokyonight)
 
 <br/>
+
+
+
+---
+
+## 🧑‍💻 À propos & Parcours
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👤 Qui suis-je ?
+
+```yaml
+nom: Edouard Vallet
+loc: Nantes, France 🇫🇷
+études: Sup de Vinci
+statut: Alternance
+focus: Cyber, Infra, DevOps
+```
+
+> *"Conception d'architectures systèmes robustes et sécurisées."*
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Mon Parcours
+
+```text2
+📚 2025-2028  Sup de Vinci, Nantes
+              Bachelor Info Sys/Réseau
+
+🎓 2024-2025  ESGI, Nantes
+              Bachelor 1 & 2
+
+💼 2025       Optimix, Lille
+              Stage Dev Web
+
+💼 2023       Soluce Informatique
+              Stage Support IT
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,6 +80,8 @@ passion: Cybersécurité, Infra & DevOps
 [![Systems](https://skillicons.dev/icons?i=linux,bash,windows,docker&theme=dark)](https://skillicons.dev)
 
 <br/>
+
+---
 
 ### 🌐 Réseau & Sécurité
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
@@ -68,10 +96,18 @@ passion: Cybersécurité, Infra & DevOps
 
 <br/>
 
+## 🌐 Top Languages
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edouardvlt&theme=tokyonight)
+
+</br>
+
 ### 🧰 Outils
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
+
+</br>
 
 ---
 
@@ -136,34 +172,15 @@ passion: Cybersécurité, Infra & DevOps
 
 </div>
 
----
-
-## 🌐 Top Languages
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edouardvlt&theme=tokyonight)
-
 ## 🔥 GitHub Streak
-
----
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Edouardvlt&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6)
 
-
-
----
-
-## 🎯 Parcours
-
-```
-📚 2025-2027  Bachelor Info Sys/Réseau/Cloud — Sup de Vinci, Nantes
-🎓 2024-2025  Bachelor 1 et 2 tronc commun — ESGI, Nantes
-🏫 2024       Bac Général — Maths & SES
-💼 2025       Stage Dev Web — Optimix, Lille
-💼 2023       Stage Support IT — Soluce Informatique, Pornic
-🏆 2025       Hackathon ESGI — Outil d'analyse médical
-```
+</br>
 
 ---
+
+
 
 ## 🌍 Langues & Intérêts
 

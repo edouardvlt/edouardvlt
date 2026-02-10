@@ -145,7 +145,7 @@ passion: Cybersécurité, Infra & DevOps
 
 ```
 📚 2025-2027  Bachelor Info Sys/Réseau/Cloud — Sup de Vinci, Nantes
-🎓 2024-2025  ESGI Nantes
+🎓 2024-2025  Bachelor 1 et 2 tronc commun — ESGI, Nantes
 🏫 2024       Bac Général — Maths & SES
 💼 2025       Stage Dev Web — Optimix, Lille
 💼 2023       Stage Support IT — Soluce Informatique, Pornic
